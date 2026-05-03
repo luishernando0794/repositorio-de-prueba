@@ -1,0 +1,50 @@
+h1 {
+    letter-spacing: 2px;
+    color: blue;
+}
+
+a {
+    text-underline-position: 20;
+    color: red;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #080f3b;
+}
+section {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid red;
+    
+}
+ol {
+    list-style-type: square;
+    color: white;
+
+}
+input {
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+    padding: 5px;
+}
+form {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid red;
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid red;
+}
